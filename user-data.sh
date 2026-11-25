@@ -14,7 +14,7 @@ const HTTP_NO_ENCONTRADO = 404;
 // ---------- Datos: de dónde salen las notas ----------
 const notasDelCurso = [4.5, 3.5, 2.5, 4.0];
 const datosDelEquipo = {
-  equipo: 'Equipo '03',
+  equipo: 'Equipo 03',
   integrantes: ['Oscar Henriquez']
 };
 
